@@ -1,0 +1,7 @@
+model/Tap.class
+model/TripStatus.class
+MyKee.class
+calculator/FileProcessor.class
+calculator/TripCalculator.class
+model/TapType.class
+model/Trip.class
